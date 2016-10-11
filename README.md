@@ -1,2 +1,2 @@
 # webpages
-this is many pages
+there are many pages
